@@ -1,4 +1,4 @@
-# RDPfail
+# RDPlog
 
 Many malicious actors attempt to RDP into servers.
 
