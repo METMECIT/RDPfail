@@ -6,7 +6,7 @@ Emails a log file every eight hours (can adjust to lower increments if needed) t
 
 How to use
 
-Add to every windows servers, specifically domain controllers.
+Add to every windows server, specifically domain controllers.
 
 1. Add RDPlog.ps1 to C:\scripts (or adjust folder name in both files then save there).
 2. Import RDPlog.xml to task scheduler in a random folder.
