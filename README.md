@@ -10,3 +10,5 @@ Add to every windows server, specifically domain controllers.
 
 1. Add RDPlog.ps1 to C:\scripts (or adjust folder name in both files then save there).
 2. Import RDPlog.xml to task scheduler in a random folder.
+
+IMPORTANT: You must enable the eventIDs to log in a GPO before this will work correctly.
