@@ -8,5 +8,5 @@ How to use
 
 Add to every windows device.
 
-add Mail-4625.ps1 to C:\scripts (or adjust folder name in both files then save there)
-Import RDPFail.xml to task scheduler in a random folder.
+1. Add RDPlog.ps1 to C:\scripts (or adjust folder name in both files then save there).
+2. Import RDPlog.xml to task scheduler in a random folder.
