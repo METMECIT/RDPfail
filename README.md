@@ -12,18 +12,7 @@ https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/eve
 
 # 1149 
 
-Information
-
-Remote Desktop Services: 
-
-User authentication succeeded:                                                                                                                                                      
-User: USERNAME
-
-Domain: DOMAIN
-
-Source Network Address: IP ADDRESS
-
-8/31/2020 7:49:11 AM
+http://intelligentsystemsmonitoring.com/knowledgebase/windows-operating-system/event-id-remote-desktop-session-host-listener-availability-16234/
 
 # 4624
 
