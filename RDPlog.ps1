@@ -13,7 +13,7 @@ Break
 Else {
 $To      = "name@domain.com" 
 $From    = "RDPlog@domain.com" 
-$Subject = "RDP Logs" 
+$Subject = "RDP Logs $env:COMPUTERNAME" 
 $Body    = "This report is ran every eight hours and contains all the event log alerts related to RDP." 
 # Create mail message 
 $Message = New-Object System.Net.Mail.MailMessage $From, $To, $Subject, $Body 
