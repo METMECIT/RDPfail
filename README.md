@@ -33,6 +33,10 @@ https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/eve
 
 https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4648
 
+# 4675
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4675
+
 # How to use
 
 Add to every windows server, specifically domain controllers.
