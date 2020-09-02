@@ -21,6 +21,18 @@ Source Network Address: IP ADDRESS
 
 8/31/2020 7:49:11 AM
 
+# 4624
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624
+
+# 4625
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4625
+
+# 4648
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4648
+
 # How to use
 
 Add to every windows server, specifically domain controllers.
