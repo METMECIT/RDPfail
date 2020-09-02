@@ -1,6 +1,6 @@
 Get-WinEvent -LogName Microsoft-Windows-TerminalServices-RemoteConnectionManager/Operational -FilterXPath '*[System[EventID = 1149 or EventID = 4624 or EventID = 4648 or EventID = 4625]]' -MaxEvents 1000 | format-table -wrap > "C:\scripts\query.txt"
 
-Get-WinEvent -LogName Security -FilterXPath '*[System[EventID = 4624 or EventID = 4648 or EventID = 4625 or EventID = 46755 or EventID = 46725 or EventID = 4664]]' -MaxEvents 1000 | format-table -wrap > "C:\scripts\query1.txt"
+Get-WinEvent -LogName Security -FilterXPath '*[System[EventID = 4624 or EventID = 4648 or EventID = 4625 or EventID = 46755 or EventID = 46725 or EventID = 4664 or EventID = 1102]]' -MaxEvents 1000 | format-table -wrap > "C:\scripts\query1.txt"
 
 $BlankFiles = Get-ChildItem C:\scripts\query.txt | where { $_.Length -cle 0kb}
 
