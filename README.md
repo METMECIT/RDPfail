@@ -33,6 +33,14 @@ https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/eve
 
 https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4648
 
+# 4664
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4964
+
+# 4672
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4672
+
 # 4675
 
 https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4675
